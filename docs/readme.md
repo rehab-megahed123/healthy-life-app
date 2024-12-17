@@ -18,3 +18,5 @@ Cross-Team Collaboration
 • Foster effective teamwork through coordinated contributions across UI, frontend, backend, and content development.
 First Stable Release (v1.0.0)
 • Deliver a polished and tested application with core features ready for public use.
+
+PM / Rehab
